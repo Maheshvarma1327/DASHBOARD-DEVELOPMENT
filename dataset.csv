@@ -1,0 +1,8 @@
+Date,Category,Sales,Profit,Region
+2023-01-05,Electronics,250.00,50.00,North
+2023-01-07,Furniture,175.00,35.00,South
+2023-01-10,Clothing,90.00,18.00,East
+2023-01-12,Electronics,340.00,68.00,West
+2023-01-15,Furniture,215.00,43.00,North
+2023-01-18,Clothing,130.00,26.00,South
+2023-01-20,Electronics,420.00,84.00,East
